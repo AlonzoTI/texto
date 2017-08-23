@@ -1,0 +1,3 @@
+nombre: Alonzo
+apellidos: Tapia Ibarra
+Carrera: Computacion e Informatica
